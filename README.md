@@ -3,8 +3,6 @@
 Im **Ronald Dale Fuentebella ** A innovative programmer with experience working across the full-stack of software and web development. A dedicated team member with the ability to quickly pick up and use new tools and software applications..<br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ronald Dale+Fuentebella%C3%B1as%2C+22+years+old;Full-Stack+Web+Developer](https://git.io/typing-svg)
-
 [![](https://img.shields.io/badge/Gmail-ronaldxdale@gmail.com-red)](mailto:ronaldxdale@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ronald%20Dale%20Fuentebella%C3%B1as-blue)](https://www.linkedin.com/in/ronaldxdale/)
 
 ### How to reach me: 
