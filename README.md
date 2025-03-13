@@ -12,12 +12,10 @@ I architect elegant solutions across the full-stack spectrum of software develop
 
 ## 💼 Professional Journey
 
-const ronald = {
-  currentRole: "Full-Stack PHP/Python Developer",
-  seeks: ["Web Development Connections", "Machine Learning Collaborations"],
-  expertise: ["Web Development", "Computer Vision", "Desktop Applications"],
-  passions: ["Clean Code", "Intuitive UX", "Performance Optimization"]
-};
+📌 Current Role: Full-Stack PHP/Python Developer
+🔍 Seeking: Web Development Connections, Machine Learning Collaborations
+💡 Expertise: Web Development, Computer Vision, Desktop Applications
+🚀 Passions: Clean Code, Intuitive UX, Performance Optimization
 
 ## 🛠️ Tech Arsenal
 
